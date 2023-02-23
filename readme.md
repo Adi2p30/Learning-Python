@@ -1,7 +1,7 @@
 # My Road Map To Learning Python 
 This repository is a reflection of my journey in learning Python, starting from the beginning of 2018 when I first started learning the programming language. It showcases all the projects that I have created since then, as well as the skills and knowledge that I have acquired along the way.
 
-The repository contains a variety of projects that demonstrate my proficiency in Python, covering a range of topics including web development, data analysis, machine learning, auto# My Road Map To Learning Python 
+The repository contains a variety of projects that demonstrate my proficiency in Python, covering a range of topics including web development, data analysis and machine learning.
 This repository is a reflection of my journey in learning Python, starting from the beginning of 2018 when I first started learning the programming language. It showcases all the projects that I have created since then, as well as the skills and knowledge that I have acquired along the way
 
 ## Roadmap
